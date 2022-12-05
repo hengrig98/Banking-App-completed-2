@@ -1,0 +1,10 @@
+# test evidence 
+evidence/
+*.log
+*.html
+assets
+
+# system files/folder
+.vscode/
+__pycache__/
+.pytest_cache
